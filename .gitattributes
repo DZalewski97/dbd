@@ -1,2 +1,3 @@
 *.tcl linguist-vendored
 *.py linguist-detectable
+*.* linguist-language=py
