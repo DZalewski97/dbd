@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import pyautogui
-
+#
 screenshot = pyautogui.screenshot()
 
 obraz = np.array(screenshot)
